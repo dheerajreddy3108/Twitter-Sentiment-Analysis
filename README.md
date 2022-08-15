@@ -49,4 +49,4 @@ Following Data Preprocessing steps are followed to clean the data and remove any
 
 ## Training
 
-Model is built using a embedding layer from keras and a LSTM layer. Model is trained for 16 epochs with a batch size of 1024. Adam optimizer with learning rate of 1e-4 is used. Two callbacks EarlyStopping and ModelCheckpoint are used to monitor the model.
+Model is built using a embedding layer from keras and a LSTM layer. Model is trained for 8 epochs with a batch size of 1024. Adam optimizer with learning rate of 1e-4 is used. Two callbacks EarlyStopping and ModelCheckpoint are used to monitor the model.
